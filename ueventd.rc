@@ -14,7 +14,7 @@
 # the msm hw3d client device node is world writable/readable.
 /dev/msm_hw3dc            0666   root       root
 
-# gpu driver for adreno200 is globally accessible
+# gpu driver hd for adreno200 is globally accessible
 /dev/kgsl                 0666   root       root
 
 # these should not be world writable
